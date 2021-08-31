@@ -3,9 +3,10 @@
 ###
 
 Hi, I’m Vignesh.
-- I am currently working as a full stack developer
+<!-- - I am currently working as a full stack developer
 - I'm passonate about coding
-
+ -->
+<!---
 #### My Skills
 - Frontend
 
@@ -35,6 +36,7 @@ Hi, I’m Vignesh.
 #### Os' &nbsp; Known
 - Linux . Windows, OsX(Mac)
 
+-->
 
 <!---
 cvignesh22/cvignesh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
