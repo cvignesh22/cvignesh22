@@ -1,11 +1,12 @@
 
-## Welcome to my Github Repo
+## Welcome 
+<!-- to my Github Repo -->
 ###
 
-Hi, I’m Vignesh.
-<!-- - I am currently working as a full stack developer
-- I'm passonate about coding
- -->
+<!-- Hi, I’m Vignesh.
+- I am currently working as a full stack developer
+- I'm passonate about coding -->
+
 <!---
 #### My Skills
 - Frontend
